@@ -178,7 +178,7 @@ export default function AdminPage() {
             </div>
             <div>
               <span className="text-lg font-black tracking-tight block bg-gradient-to-r from-white to-slate-200 bg-clip-text text-transparent">
-                Community67 Control
+                Community Control
               </span>
               <span className="text-[10px] text-red-400 font-bold uppercase tracking-wider block -mt-0.5">🔒 ระบบผู้ดูแลระบบ (Admin)</span>
             </div>
