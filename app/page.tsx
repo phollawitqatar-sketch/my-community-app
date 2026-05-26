@@ -79,7 +79,7 @@ export default function Home() {
               </svg>
             </div>
             <span className="text-xl font-black tracking-tight bg-gradient-to-r from-white to-slate-200 bg-clip-text text-transparent">
-              Community 
+              Communityประชาชน 
             </span>
           </div>
           
